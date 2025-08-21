@@ -31,7 +31,7 @@ Matplotlib & Seaborn – Data visualization
 
 Scikit-learn – Machine Learning (Linear Regression, evaluation metrics)
 
-##### 🚀 Steps in the Project
+### 🚀 Steps in the Project
 
 Import Libraries
 
