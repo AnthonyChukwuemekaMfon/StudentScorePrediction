@@ -1,12 +1,12 @@
-### Student Score Prediction
-##### 📌 Project Overview
+# Student Score Prediction
+### 📌 Project Overview
 
 This project focuses on predicting student exam scores based on the number of study hours.
 The dataset contains a simple relationship between study hours (independent variable) and student scores (dependent variable).
 
 This regression task is useful in understanding how study time impacts academic performance and demonstrates the application of supervised learning in education analytics.
 
-##### 📂 Dataset
+### 📂 Dataset
 
 Source: Student Study Hours Dataset (commonly used in ML beginner projects)
 Format: CSV file (e.g., student_scores.csv)
@@ -19,7 +19,7 @@ Target Variable:
 
 Scores → Exam score percentage
 
-##### 🛠 Tools & Libraries
+### 🛠 Tools & Libraries
 
 Python
 
@@ -63,7 +63,7 @@ Prediction
 
 Predict student score for given study hours
 
-##### 📊 Expected Output
+### 📊 Expected Output
 
 A trained Linear Regression model capable of predicting exam scores from study hours.
 
@@ -71,7 +71,7 @@ Evaluation metrics to assess model accuracy.
 
 Visualizations showing the relationship between study time and scores.
 
-##### 💻 How to Run
+### 💻 How to Run
 
 Clone the repository or upload the notebook to Google Colab / Jupyter Notebook.
 
@@ -81,6 +81,6 @@ Run all cells in sequence.
 
 View results and use the trained model for predictions.
 
-##### 📜 License
+### 📜 License
 
 This project is for educational purposes as part of the Elevvo Internship Program.
